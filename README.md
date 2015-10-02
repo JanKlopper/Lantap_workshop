@@ -3,6 +3,8 @@ Frack's (https://frack.nl) Lan Tap workshop
 
 During this workshop we soldered Great Scott's Throwing Star Lan tap boards and explained the workings of tcpdump, wireshark and parts of grep.
 
+You can view the presentation by opening the presentation/lantap.html file in your browser.
+
 For some resources see the following links:
 
 * http://greatscottgadgets.com/throwingstar/throwing-star-instructions.pdf
